@@ -1,0 +1,14 @@
+NORRISCHUCK PLUGIN IN DEUTSCH
+
+Das war mal ein "randomfacts" plugin was ich zu einem "chucknorris" plugin (mit 110 Norris Sprüchen in der chucknorris.txt) umgeschrieben hatte, weil ich damals Probleme mit der api bekamm aber unbedingt Chuck Norris wollte. Da ich fast alle Sprüche manuell eingetippt habe fand ich es zu schade zum löschen und hab daraus nun ein norrischuck plugin gemacht. :-)
+
+Sag einfach "Norris Chuck" und Siri antwortet mit einem von 110 Chuck Norris Sprüchen.
+
+
+So installierst Du dieses Plugin: 
+
+# 1: Lade den "norrischuck" ordner in ~/SiriServerCore/plugins/ 
+
+# 2: Fügen Sie "norrischuck" in plugins.conf ein
+
+FERTIG
