@@ -15,7 +15,7 @@ class chucknorris(Plugin):
     @register("de-DE",".*Norris chuck.*")
     def st_catfact(self, speech, language):
         if language == 'de-DE':
-            filename = ./plugins/norrischuck/chucknorris.txt
+            filename = './plugins/norrischuck/chucknorris.txt'
             file = open(filename, 'r')
 
             #Get the total file size
